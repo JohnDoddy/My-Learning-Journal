@@ -1,5 +1,4 @@
 # My Learning Journey
-> Software Development
 
 ## Projects Done
 | No. | Project | Link | Status |
