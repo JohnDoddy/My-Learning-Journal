@@ -28,5 +28,6 @@
 ## Challenges Completed
 | No. | Challenge By | Name | Written in | Link |
 |-----|--------------|------|----------|------|
-| 1 | [Frontend.io](https://www.frontendmentor.io/challenges/huddle-landing-page-945317) | Huddle Landing Page | HTML & CSS | [Huddle](https://johndoddy.github.io/frontend-design-1/)|
-| 2 | [Javascript 30 ](https://courses.wesbos.com/account/signin) | JavaScript Drumkit | HTML, CSS & JavaScript | [Drumkit](https://johndoddy.github.io/javascript-drumkit/) |
+| 1 | Any Python Challenge I find | Python Challenges | Python3 | [Python Challenges Repository](https://github.com/JohnDoddy/python_challenges) |
+| 2 | [Frontend.io](https://www.frontendmentor.io/challenges/huddle-landing-page-945317) | Huddle Landing Page | HTML & CSS | [Huddle](https://johndoddy.github.io/frontend-design-1/)|
+| 3 | [Javascript 30 ](https://courses.wesbos.com/account/signin) | JavaScript Drumkit | HTML, CSS & JavaScript | [Drumkit](https://johndoddy.github.io/javascript-drumkit/) |
