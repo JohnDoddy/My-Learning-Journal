@@ -23,7 +23,7 @@
 
 | No. | Course | Link | Certification |
 |-----|--------|------|---------------|
-| 1 | What is Data Science | [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science-professional-certificate) | Pending |
+| 1 | What is Data Science | [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science-professional-certificate) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZTLPPAQ9RW2P) |
  
 ## Challenges Completed
 | No. | Challenge By | Name | Written in | Link |
