@@ -20,10 +20,12 @@
 > In Data and Analytics
 
 ### Data Science
+> [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 
 | No. | Course | Link | Certification |
 |-----|--------|------|---------------|
-| 1 | What is Data Science | [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science-professional-certificate) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZTLPPAQ9RW2P) |
+| 1 | What is Data Science | Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZTLPPAQ9RW2P) |
+| 2 | Open Source tools for Data Science | Coursera | Pending |
  
 ## Challenges Completed
 | No. | Challenge By | Name | Written in | Link |
