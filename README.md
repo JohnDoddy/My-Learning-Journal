@@ -12,7 +12,7 @@
 ### HTML & CSS
 | No. | Course | Link | Certification |
 |-----|--------|------|---------------|
-| 1 | HTML & CSS curriculum | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
+| 1 | Front-End Development Curriculum | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
 | 2 | HTML Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Expert](https://app.pluralsight.com/profile/john-doddy) |
 | 3 | CSS Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ](https://app.pluralsight.com/profile/john-doddy) |
 
