@@ -14,13 +14,13 @@ become a Software Engineer.
 
 | No. | Course Name | Status |
 |-----|-------------|--------|
-| 1. | [Mathematics for Computer Science - 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | Pending
-| 2. | [Introduction to Algorithms - 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | Pending |
-| 3. | [Introduction to Computer Programming and Python Programming - 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) | Pending |
+| 1. | [Mathematics for Computer Science - 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | In Progress |
+| 2. | [Introduction to Algorithms - 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | In Progress |
+| 3. | [Introduction to Computer Programming and Python Programming - 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) | In Progress |
 
 ## In Web Development
 
-### HTML & CSS
+### Pluralsight and freeCodeCamp
 
 | No. | Course | Link | Certification |
 |-----|--------|------|---------------|
@@ -31,8 +31,8 @@ become a Software Engineer.
 | 5. | FrontEnd Libraries | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
 | 6. | Data Visualisation | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
 | 7. | APIs and MicroServices | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
-| 8. | Information Security and Assurance | [freeCodeCamp](https://www.freecodecamp.org/) || Pending |
-| 9. | Coding Interview Prep (Thousands of Programming hours) | [freeCodeCamp](https://www.freecodecamp.org/) || Pending |
+| 8. | Information Security and Assurance | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
+| 9. | Coding Interview Prep (Thousands of Programming hours) | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
 
 
 ## In Data Science
