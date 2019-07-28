@@ -4,9 +4,9 @@ Hey there, Welcome to my repository where I document most of the courses I consu
 become a Software Engineer.
 
 ## Projects Done
-| No. | Project | Link | Status |
-|-----|--------|------|--------|
-| 1 | Anti-Corruption and Incident reporting | [iReporter](https://johndoddy.github.io/iReporter/) | Pending |
+| No. | Project | Link | With | Status |
+|-----|---------|------|------|--------|
+| 1 | Anti-Corruption and Incident reporting | [iReporter](https://johndoddy.github.io/iReporter/) | Python - Flask | Pending |
 
 ## Computer Science Courses
 
