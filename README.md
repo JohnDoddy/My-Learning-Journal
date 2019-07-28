@@ -1,6 +1,6 @@
 # My Learning Journal
 
-Hey there, Welcome to my repository where I document most of the courses I consume(d) while on the pursuit to
+Hey there, Welcome to my repository where I document most of the courses I consume(d) and projects I achieved while on the pursuit to
 become a Software Engineer.
 
 ## Projects Done
