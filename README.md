@@ -24,8 +24,8 @@ become a Software Engineer.
 
 | No. | Course | Link | Certification |
 |-----|--------|------|---------------|
-| 1. | HTML Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Expert](https://app.pluralsight.com/profile/john-doddy) |
-| 2. | CSS Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Proficient](https://app.pluralsight.com/profile/john-doddy) |
+| 1. | HTML Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Expert](https://app.pluralsight.com/profile/JohnDoddy) |
+| 2. | CSS Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Proficient](https://app.pluralsight.com/profile/JohnDoddy) |
 | 3. | Responsive Web Design | [freeCodeCamp](https://www.freecodecamp.org/) | In Progress |
 | 4. | Javascript Algorithms and Data Structures | [freeCodeCamp](https://www.freecodecamp.org/) | In Progress |
 | 5. | FrontEnd Libraries | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
