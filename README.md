@@ -37,7 +37,7 @@ become a Software Engineer.
 
 ## In Data Science
 
-### Data Science
+### Coursera
 > [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 
 | No. | Course | Link | Certification |
