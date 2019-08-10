@@ -20,29 +20,29 @@ become a Software Engineer.
 
 ## In Web Development
 
-### Pluralsight and freeCodeCamp
+### [Pluralsight](https://www.pluralsight.com/) and [freeCodeCamp](https://www.freecodecamp.org/)
 
-| No. | Course | Link | Certification |
-|-----|--------|------|---------------|
-| 1. | HTML Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Expert](https://app.pluralsight.com/profile/JohnDoddy) |
-| 2. | CSS Path | [Pluralsight](https://www.pluralsight.com/) | [Skill IQ - Proficient](https://app.pluralsight.com/profile/JohnDoddy) |
-| 3. | Responsive Web Design | [freeCodeCamp](https://www.freecodecamp.org/) | In Progress |
-| 4. | Javascript Algorithms and Data Structures | [freeCodeCamp](https://www.freecodecamp.org/) | In Progress |
-| 5. | FrontEnd Libraries | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
-| 6. | Data Visualisation | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
-| 7. | APIs and MicroServices | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
-| 8. | Information Security and Assurance | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
-| 9. | Coding Interview Prep (Thousands of Programming hours) | [freeCodeCamp](https://www.freecodecamp.org/) | Pending |
+| No. | Course | Certification |
+|-----|--------|---------------|
+| 1. | HTML Path | [Skill IQ - Expert](https://app.pluralsight.com/profile/JohnDoddy) |
+| 2. | CSS Path | [Skill IQ - Proficient](https://app.pluralsight.com/profile/JohnDoddy) |
+| 3. | Responsive Web Design | In Progress |
+| 4. | Javascript Algorithms and Data Structures | In Progress |
+| 5. | FrontEnd Libraries | Pending |
+| 6. | Data Visualisation | Pending |
+| 7. | APIs and MicroServices | Pending |
+| 8. | Information Security and Assurance | Pending |
+| 9. | Coding Interview Prep (Thousands of Programming hours) | Pending |
 
 
 ## In Data Science
 
-### Coursera
+### [Coursera](https://www.coursera.org/)
 > [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 
-| No. | Course | Link | Certification |
-|-----|--------|------|---------------|
-| 1 | What is Data Science | Coursera | [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZTLPPAQ9RW2P) |
-| 2 | Open Source tools for Data Science | Coursera | Pending |
+| No. | Course | Certification |
+|-----|--------|---------------|
+| 1 | What is Data Science | [Certificate](https://www.coursera.org/account/accomplishments/certificate/ZTLPPAQ9RW2P) |
+| 2 | Open Source tools for Data Science | Pending |
  
 
