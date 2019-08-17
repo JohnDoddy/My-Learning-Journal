@@ -26,7 +26,7 @@ become a Software Engineer.
 |-----|--------|---------------|
 | 1. | HTML Path | [Skill IQ - Expert](https://app.pluralsight.com/profile/JohnDoddy) |
 | 2. | CSS Path | [Skill IQ - Proficient](https://app.pluralsight.com/profile/JohnDoddy) |
-| 3. | Responsive Web Design | In Progress |
+| 3. | Responsive Web Design | [Certificate](https://www.freecodecamp.org/certification/johndoddy/responsive-web-design) |
 | 4. | Javascript Algorithms and Data Structures | In Progress |
 | 5. | FrontEnd Libraries | Pending |
 | 6. | Data Visualisation | Pending |
