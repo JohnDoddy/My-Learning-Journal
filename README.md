@@ -14,9 +14,9 @@ become a Software Engineer.
 
 | No. | Course Name | Status |
 |-----|-------------|--------|
-| 1. | [Mathematics for Computer Science - 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | In Progress |
-| 2. | [Introduction to Algorithms - 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | In Progress |
-| 3. | [Introduction to Computer Programming and Python Programming - 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) | In Progress |
+| 1. | [Mathematics for Computer Science - 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | Completed |
+| 2. | [Introduction to Algorithms - 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) | Completed |
+| 3. | [Introduction to Computer Programming and Python Programming - 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) | Completed |
 
 ## In Web Development
 
